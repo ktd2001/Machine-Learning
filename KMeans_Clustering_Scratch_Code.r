@@ -1,5 +1,5 @@
 # Keiana Dunn
-# Assignment #1: K-Means Clustering Algorithm from Scratch
+# K-Means Clustering Algorithm from Scratch
 # Date: 1/29/19 Update: 2/18/19
 
 
